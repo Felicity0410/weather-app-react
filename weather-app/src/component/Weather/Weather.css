@@ -1,0 +1,9 @@
+.weather-container {
+    width: 500px;
+    margin: 38px auto auto;
+    background-color: rgb(30, 177, 235);
+}
+
+.text-muted {
+    color: #fff!important
+}
